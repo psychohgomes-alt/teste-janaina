@@ -1,0 +1,23 @@
+PROSPERE GESTÃO EMPRESARIAL
+Arquivos para desenvolvimento da página web
+
+Cinco versões em PNG com o complemento GESTÃO EMPRESARIAL.
+Todas possuem canal de transparência. As versões brancas devem ser
+visualizadas sobre fundo escuro e a versão preta sobre fundo claro.
+
+Prospere_Horizontal_Colorida.png: fundos claros.
+Prospere_Horizontal_Preta.png: aplicação monocromática em fundos claros.
+Prospere_Horizontal_Branca.png: aplicação monocromática em fundos escuros.
+Prospere_Horizontal_Fundos_Escuros.png: branco com destaque coral.
+Prospere_Vertical_Fundos_Escuros.png: composição vertical branca e coral.
+Referencia_Original_Gestao_Empresarial.png: arquivo fornecido por Janaina,
+já com a denominação atualizada, preservado para comparação.
+
+Cores de referência extraídas dos arquivos originais:
+Azul petróleo #01586B e coral #E36C4C.
+
+As versões atualizadas são imagens raster e podem ter pequenas diferenças
+de traçado e cor em relação à matriz original. Para padronização final e
+produção de SVG ou aplicações impressas, utilizar a matriz vetorial
+original da marca ou realizar a finalização com o designer.
+Não ampliar acima da resolução do arquivo nem deformar as proporções.
